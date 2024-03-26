@@ -2,8 +2,8 @@ favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author: 'Fan Yang'
+author_bio: 'Professor of School of Microelectronics, Fudan University'
 
 since: 2020
 
@@ -12,8 +12,8 @@ since: 2020
 # 可以选择外链或其他页面
 menu:
   Publications: /#Publications
-  About: /
-  Blog: https://phower.me
+  Teaching: /
+  Contact: https://phower.me
 
 # flink picture will load if avator link calls on error
 loading_bg:
