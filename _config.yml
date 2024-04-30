@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "images/yangfan.jpg"
   name             : "Fan Yang"
-  pronouns         : "He/His"  
+  pronouns         : #"He/His"  
   bio              : "Professor of School of Microelectronics/State Key Lab of Integrated Circuits and Systems"
   location         : "Shanghai"
   employer         : "Fudan University"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
