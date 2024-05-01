@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fan Yang / Personal Website"
+title                    : "Fan Yang"
 title_separator          : "-"
 name                     : &name "Fan Yang"
 description              : &description "Professor of Fudan University"
@@ -21,7 +21,7 @@ repository               : "ephonic/ephonic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/yangfan.jpg"
+  avatar           : "yangfan.jpg"
   name             : "Fan Yang"
   pronouns         : #"He/His"  
   bio              : "Professor of School of Microelectronics/State Key Lab of Integrated Circuits and Systems"
