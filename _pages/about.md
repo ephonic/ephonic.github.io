@@ -8,7 +8,7 @@ redirect_from:
 ---
 Prof. Fan Yang
 =====
-Fan Yang received his B.E. Degree from Xi'an Jiaotong University in 2003, and his Ph.D degree from Fudan University in 2008. He joined Fudan University as an assistant Professor in 2008. He is now a professor in the School of Microelectronics/State Key Lab of Integrated Circuits and Systems at Fudan University.
+Prof. Fan Yang received his B.E. Degree from Xi'an Jiaotong University in 2003, and his Ph.D degree from Fudan University in 2008. He joined Fudan University as an assistant Professor in 2008. He is now a professor in the School of Microelectronics/State Key Lab of Integrated Circuits and Systems at Fudan University.
 
 His research is mainly focused on design automation of integrated circuits, including modeling, simulation and optimization of analog circuits, high-level synthesis, logic simulation, physical design, and DFM of digital integrated circuits, design of AI accelerators, compiler techniques for AI accelerators, machine learning techniques and their applications in EDA.
 
