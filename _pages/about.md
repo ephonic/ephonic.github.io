@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Fan Yang"
+title: "Prof. Fan Yang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Prof. Fan Yang
+
 =====
 Prof. Fan Yang received his B.E. Degree from Xi'an Jiaotong University in 2003, and his Ph.D degree from Fudan University in 2008. He joined Fudan University as an assistant Professor in 2008. He is now a professor in the School of Microelectronics/State Key Lab of Integrated Circuits and Systems at Fudan University.
 
