@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/programming
 venue: "Fudan University, School of Microelectronics"
-date: Fall Semester 
 location: "Shanghai, China"
 ---
 

@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/eda
 venue: "Fudan University, School of Microelectronics"
-date: Spring Semester
 location: "Shanghai, China"
 ---
 
