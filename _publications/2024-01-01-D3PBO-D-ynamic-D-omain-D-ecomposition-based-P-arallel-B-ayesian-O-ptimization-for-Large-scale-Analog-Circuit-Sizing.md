@@ -1,5 +1,5 @@
 ---
-title: "D3PBO: D ynamic D omain D ecomposition-based P arallel B ayesian O ptimization for Large-scale Analog Circuit Sizing"
+title: "D3PBO: Dynamic Domain Decomposition-based Parallel Bayesian Optimization for Large-scale Analog Circuit Sizing"
 collection: publications
 permalink: /publication/2024-01-01-D3PBO-D-ynamic-D-omain-D-ecomposition-based-P-arallel-B-ayesian-O-ptimization-for-Large-scale-Analog-Circuit-Sizing
 date: 2024-01-01
