@@ -3,7 +3,7 @@ title: "Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/programming
-date: 2023
+date: 2023-09-01
 venue: "Fudan University, School of Microelectronics"
 location: "Shanghai, China"
 ---

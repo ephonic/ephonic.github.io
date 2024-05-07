@@ -3,7 +3,7 @@ title: "Fundamentals of Design Automation of Integrated Circuits"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/eda
-Date: 2024
+Date: 2024-03-01
 venue: "Fudan University, School of Microelectronics"
 location: "Shanghai, China"
 ---
