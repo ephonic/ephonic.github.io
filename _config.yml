@@ -22,11 +22,11 @@ repository               : "ephonic/ephonic.github.io"
 author:
   # Biographic information
   avatar           : "yangfan.jpg"
-  name             : "Fan Yang"
+  name             : "Fan Yang (杨帆)"
   pronouns         : #"He/His"  
-  bio              : "Professor<BR>School of Microelectronics/State Key Lab of Integrated Circuits and Systems"
+  bio              : "Professor<BR>School of Microelectronics（微电子学院）<BR> State Key Lab of Integrated Circuits and Systems（集成芯片与系统全国重点实验室）"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : "Fudan University(复旦大学)"
   uri              : # URL
   email            : "yangfan#fudan.edu.cn" 
 
