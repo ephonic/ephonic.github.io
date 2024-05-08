@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research"
+title: "Research Schemes"
 author_profile: true
 redirect_from: 
   - /research/
@@ -13,7 +13,7 @@ redirect_from:
 * System-level design of integrated chips and systems.
 
 
-========
+======
 
 # Design Automation of Analog Circuits
 * Topology optimization of analog circuits
@@ -22,7 +22,7 @@ redirect_from:
 * LLM-based design optimization of analog circuits
 
 
-========
+======
 # Design Automation of Digital Circuits
 * Prototyping system design and optimization
 * High-level synthesis and logic synthesis
@@ -31,7 +31,7 @@ redirect_from:
 * Design space exploration of CPU
 
 
-========
+======
 # Digital Circuit Design
 * Many-core boolean processor design
 * Zero-knowledge proof and Fully homomorphic encryption accelerator design
