@@ -16,9 +16,9 @@ He won First-class prize of Natural Science Shanghai in 2012, Best Paper award o
 # Research Schemes
 
 ## Design Automation of Integrated Chips and Systems
-* Machine learning techniques for fast evaluations of EM, thermal and stress effects.
-* Placement and routing algorithms for integrated chips considering EM, thermal effects.
-* System-level design of integrated chips and systems.
+* Machine learning techniques for fast evaluations of EM, thermal and stress effects
+* Placement and routing algorithms for integrated chips considering EM, thermal effects
+* System-level design of integrated chips and systems
 
 
 ## Design Automation of Analog Circuits
