@@ -13,7 +13,7 @@ His research is mainly focused on design automation of integrated circuits, incl
 
 He won First-class prize of Natural Science Shanghai in 2012, Best Paper award of Integration, the VLSI Journal 2018, First Place of ICCAD contest 2022 Problem C. He also got several best paper nominations such as DAC 2014, DAC 2017 and ASPDAC 2017. He was supported by National Science Foundation for Excellent Young Scholars in 2018.  
 
-# Research Schemes
+# Research Fields
 
 ## Design Automation of Integrated Chips and Systems
 * Machine learning techniques for fast evaluations of EM, thermal and stress effects
