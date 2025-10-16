@@ -24,7 +24,7 @@ author:
   avatar           : "yangfan.jpg"
   name             : "Fan Yang (杨帆)"
   pronouns         : #"He/His"  
-  bio              : "Professor<BR>School of Microelectronics（微电子学院）<BR> State Key Lab of Integrated Circuits and Systems（集成芯片与系统全国重点实验室）"
+  bio              : "Professor<BR>School of Microelectronics（集成电路与微纳电子创新学院）<BR> State Key Lab of Integrated Circuits and Systems（集成芯片与系统全国重点实验室）"
   location         : "Shanghai, China"
   employer         : "Fudan University(复旦大学)"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1MwZk68AAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
